@@ -1,0 +1,10 @@
+{
+  "id": "space.lihont.plugin.darkpages",
+  "name": "Dark Pages",
+  "name_ru": "Тёмные страницы",
+  "version": "1.0",
+  "author": "Claude & Lihon Team",
+  "description": "Автоматический тёмный режим для веб-сайтов и умная инверсия интерфейса.",
+  "entry": "space.lihont.plugin.darkpages.DarkPagesPlugin",
+  "min_api": 26
+}

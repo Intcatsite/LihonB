@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- TikTok note vector -->
+  <path
+      android:fillColor="@color/md_theme_dark_primary"
+      android:pathData="M16.6,5.82s0.51,3.4 3.4,3.72V12.7c-1.57,-0.04 -3.07,-0.57 -4.33,-1.49v6.57c0,3.44 -2.8,6.22 -6.24,6.22 -3.45,0 -6.24,-2.79 -6.24,-6.22 0,-3.44 2.8,-6.22 6.24,-6.22 0.36,0 0.72,0.03 1.06,0.1V14.9c-0.34,-0.12 -0.69,-0.18 -1.06,-0.18 -1.67,0 -3.02,1.35 -3.02,3.02 0,1.67 1.35,3.02 3.02,3.02 1.67,0 3.02,-1.35 3.02,-3.02V2h4.15c0,1.45 0.58,2.78 1.54,3.74 0.96,0.96 2.29,1.54 3.74,1.54v-3.4c-1.39,-0.27 -2.48,-1.36 -2.75,-2.75h-2.53z"/>
+</vector>
