@@ -1,0 +1,11 @@
+{
+  "id": "space.lihont.plugin.lighttheme",
+  "name": "MD3 Light Theme",
+  "name_ru": "Светлая тема MD3",
+  "version": "1.0",
+  "author": "Lihon Team",
+  "description": "Элегантная светлая тема Material Design 3 Expressive с адаптацией главного экрана, статус-бара и веб-страниц.",
+  "description_ru": "Элегантная светлая тема Material Design 3 Expressive с адаптацией главного экрана, статус-бара и веб-страниц.",
+  "entry": "space.lihont.plugin.lighttheme.LightThemePlugin",
+  "min_api": 26
+}

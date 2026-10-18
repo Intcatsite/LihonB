@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Incognito Hat & Glasses -->
+  <path
+      android:fillColor="@color/md_theme_dark_primary"
+      android:pathData="M12,3c-3,0 -5.5,1.5 -6,4h12c-0.5,-2.5 -3,-4 -6,-4zm-8,5v2h16V8H4zm4,4c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3zm8,0c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z"/>
+</vector>

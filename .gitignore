@@ -1,0 +1,13 @@
+# Build outputs and caches
+*.apk
+*.idsig
+*.dex
+build/
+gen/
+work/
+__pycache__/
+*.pyc
+.gradle/
+local.properties
+.DS_Store
+Thumbs.db

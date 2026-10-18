@@ -1,0 +1,11 @@
+{
+  "id": "space.lihont.plugin.boykisser",
+  "name": "Boykisser Corner",
+  "name_ru": "Boykisser в углу",
+  "version": "1.0",
+  "author": "Lihon & Boykisser",
+  "description": "Interactive animated boykisser pet on your screen with meow sound and dragging.",
+  "description_ru": "Интерактивный анимированный boykisser на экране с мяуканьем и перетаскиванием.",
+  "entry": "space.lihont.plugin.boykisser.BoykisserPlugin",
+  "min_api": 1
+}

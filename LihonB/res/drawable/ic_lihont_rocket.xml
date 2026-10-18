@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Rocket vector -->
+  <path
+      android:fillColor="@color/md_accent_rose"
+      android:pathData="M13.13,2.44C12,2 10.87,2 9.77,2.44L4.85,4.42c-1.32,0.53 -2.13,1.86 -1.97,3.27 0.17,1.44 1.25,2.58 2.68,2.83l1.83,0.32 0.77,3.83c0.16,0.82 0.73,1.49 1.5,1.79l3.34,1.34c0.8,0.32 1.7,0.18 2.37,-0.37l4.98,-4.06c0.97,-0.79 1.4,-2.08 1.07,-3.28L19.46,6.3c-0.34,-1.25 -1.33,-2.2 -2.59,-2.48l-3.74,-0.84z"/>
+</vector>

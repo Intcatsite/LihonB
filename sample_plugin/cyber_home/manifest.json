@@ -1,0 +1,11 @@
+{
+  "id": "space.lihont.cyberhome",
+  "name": "Cyber Neon Home",
+  "name_ru": "Кибер-Главный Экран",
+  "version": "1.0",
+  "author": "Lihon Mod Team",
+  "description": "Customizes the home screen with a neon cyber widget and quick link to lihont.space.",
+  "description_ru": "Кастомизирует главный экран: неоновый кибер-виджет, статус LihonT и быстрый переход на lihont.space.",
+  "entry": "space.lihont.plugin.cyber.CyberHomePlugin",
+  "min_api": 1
+}

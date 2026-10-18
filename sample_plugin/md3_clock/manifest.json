@@ -1,0 +1,10 @@
+{
+  "id": "space.lihont.plugin.clock",
+  "name": "MD3 Analog Clock",
+  "name_ru": "Аналоговые часы MD3",
+  "version": "1.0",
+  "author": "DeepSeek & Lihon Team",
+  "description": "Элегантные аналоговые часы Material Design 3 на домашнем экране с динамической кастомизацией акцентов и размера.",
+  "entry": "space.lihont.plugin.clock.Md3ClockPlugin",
+  "min_api": 26
+}

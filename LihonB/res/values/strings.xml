@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LihonB</string>
+    <string name="search_hint">Поиск или адрес сайта</string>
+    <string name="adblock_active">AdBlock активен</string>
+    <string name="menu_desktop">Версия для ПК</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="menu_clear">Очистить данные</string>
+</resources>
